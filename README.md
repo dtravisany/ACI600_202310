@@ -4,3 +4,13 @@
 
 
 # ------
+
+Unidades:
+
+0. Repaso Python / Programación Orientada a Objetos.
+1. Estructuras de Datos Básicas.
+2. Recursividad.
+3. Algoritmos de Ordenamiento.
+4. Algoritmos de Búsqueda.
+5. Tipos de Datos Abstractos.
+6. Estructura de Datos No Lineales.
